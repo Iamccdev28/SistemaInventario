@@ -1,0 +1,15 @@
+C:\Users\car_w\Desktop\Cursos\SistemaInventarioV6\SistemaInventario.Modelo\bin\Debug\net6.0\SistemaInventario.Modelo.deps.json
+C:\Users\car_w\Desktop\Cursos\SistemaInventarioV6\SistemaInventario.Modelo\bin\Debug\net6.0\SistemaInventario.Modelo.dll
+C:\Users\car_w\Desktop\Cursos\SistemaInventarioV6\SistemaInventario.Modelo\bin\Debug\net6.0\SistemaInventario.Modelo.pdb
+C:\Users\car_w\Desktop\Cursos\SistemaInventarioV6\SistemaInventario.Modelo\obj\Debug\net6.0\SistemaInventario.Modelo.csproj.AssemblyReference.cache
+C:\Users\car_w\Desktop\Cursos\SistemaInventarioV6\SistemaInventario.Modelo\obj\Debug\net6.0\SistemaInventario.Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\car_w\Desktop\Cursos\SistemaInventarioV6\SistemaInventario.Modelo\obj\Debug\net6.0\SistemaInventario.Modelo.AssemblyInfoInputs.cache
+C:\Users\car_w\Desktop\Cursos\SistemaInventarioV6\SistemaInventario.Modelo\obj\Debug\net6.0\SistemaInventario.Modelo.AssemblyInfo.cs
+C:\Users\car_w\Desktop\Cursos\SistemaInventarioV6\SistemaInventario.Modelo\obj\Debug\net6.0\SistemaInventario.Modelo.csproj.CoreCompileInputs.cache
+C:\Users\car_w\Desktop\Cursos\SistemaInventarioV6\SistemaInventario.Modelo\obj\Debug\net6.0\SistemaInventario.Modelo.dll
+C:\Users\car_w\Desktop\Cursos\SistemaInventarioV6\SistemaInventario.Modelo\obj\Debug\net6.0\refint\SistemaInventario.Modelo.dll
+C:\Users\car_w\Desktop\Cursos\SistemaInventarioV6\SistemaInventario.Modelo\obj\Debug\net6.0\SistemaInventario.Modelo.pdb
+C:\Users\car_w\Desktop\Cursos\SistemaInventarioV6\SistemaInventario.Modelo\obj\Debug\net6.0\ref\SistemaInventario.Modelo.dll
+C:\Users\car_w\Desktop\Cursos\SistemaInventarioV6\SistemaInventario.Modelo\bin\Debug\net6.0\SistemaInventario.Utilidades.dll
+C:\Users\car_w\Desktop\Cursos\SistemaInventarioV6\SistemaInventario.Modelo\bin\Debug\net6.0\SistemaInventario.Utilidades.pdb
+C:\Users\car_w\Desktop\Cursos\SistemaInventarioV6\SistemaInventario.Modelo\obj\Debug\net6.0\SistemaInventario.Modelo.csproj.CopyComplete
